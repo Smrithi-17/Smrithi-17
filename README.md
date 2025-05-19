@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am passionate about cybersecurity and wish to use this platform to learn all about it.
 
 <!--
 **Smrithi-17/Smrithi-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
